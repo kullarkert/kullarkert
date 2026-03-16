@@ -1,12 +1,12 @@
 # Hi, I'm Kullar 👋
-Full‑Stack PHP Developer • Engineering Manager / Tech Lead • 18+ years building and leading software teams
+Full‑Stack PHP Developer • Engineering Manager / Tech Lead • 19+ years building and leading software teams
 
 I build scalable, maintainable, and performance‑driven products—bridging robust backends with intuitive user experiences. I’ve grown from Software Developer to Software Development Manager, leading cross‑functional teams and projects that align technical excellence with user‑focused design and business goals.
 
 - 🚀 Core stack: PHP • React • React Native • Next.js • Flutter
 - 🧭 Leadership: mentoring, engineering culture, clean code standards, delivery excellence
 - 🧩 Focus: architecture, DX/UX, system performance, and pragmatic DevOps
-- ❤️ Outside of work: cooking and cycling
+- ❤️ Outside of work: 3D printing, cooking and cycling
 
 ---
 
